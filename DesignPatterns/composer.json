@@ -13,7 +13,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "TDD\\Test\\": "tests/"
+            "DesignPatterns\\Test\\": "tests/"
         }
     },
     "authors": [
